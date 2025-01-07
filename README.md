@@ -9,8 +9,6 @@
 - For Back-end
   - Firebase
 
-[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://github.com/itsmnsi/Electronic-Toll-Collection-System-On-Highway-Android-App-)
-
 ### Snapshots
 
 <img align="left" alt="snapshot1" src="https://github.com/itsmnsi/Electronic-Toll-Collection-System-On-Highway-Android-App-/blob/main/project%20screenshots/1.jpg" width="250" height="400" />
